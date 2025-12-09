@@ -28,4 +28,4 @@ this will run the code bellow
 console.log ("hello world")
 ´´´
 the AI model was provided by
-[yvesdylane](https://github.com/yvesdylan)
+[yvesdylane](https://github.com/yvesdylane)
