@@ -27,3 +27,5 @@ this will run the code bellow
 ``` javascript
 console.log ("hello world")
 ´´´
+the AI model was provided by
+[yvesdylane](https://github.com/yvesdylan)
