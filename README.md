@@ -9,3 +9,6 @@ this is online text
 ###### Software engineering 
 My name is Fongueing awum fredy  
 mornong life is cool
+**fredy**
+*gold*
+***fredy lynch***
