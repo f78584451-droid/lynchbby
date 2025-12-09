@@ -20,3 +20,10 @@ mornong life is cool
   2. item2  
 > hello
 >> word
+```cmd git init --in the folder you chose to work on
+   git clone <url> --to clone my repo
+´´´
+this will run the code bellow
+``` javascript
+console.log ("hello world")
+´´´
