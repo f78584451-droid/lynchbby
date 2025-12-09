@@ -12,3 +12,9 @@ mornong life is cool
 **fredy**  **hhhh**
 *gold*
 ***fredy lynch***
+- unordered list
+- item 1
+- item 2
+- ordered list
+  1. item1
+  2. item2  
